@@ -1,5 +1,4 @@
 # RPN Calc
-====================
 We're building this command-line calculator for people who are comfortable with UNIX-like CLI utilities. We are starting with the basic 4 operators now but will want to eventually implement other operators and an alternate interface (such as WebSocket, file, or TCP socket).
 
 Example Input/Output
